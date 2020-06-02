@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='SimpleTodo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ScreenToGif](https://www.screentogif.com/).
 
 ## Notes
 
