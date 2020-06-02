@@ -32,11 +32,11 @@ GIF created with [ScreenToGif](https://www.screentogif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I enjoyed creating this app. However, it good to point out that while developing it is so easy to make simple mistakes. Sadly, I spent minutes trying to figure out an error which was simply a spelling mistake. I am happy I was able to resolve that. This happens to the best of us.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Denise Daniels
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
